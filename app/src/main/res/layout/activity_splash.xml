@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1f1f1d">
+
+    <ImageView
+        android:id="@+id/logoImageView"
+        android:layout_width="match_parent"
+        android:layout_height="419dp"
+        android:padding="16dp"
+
+        android:src="@drawable/languagemaster" />
+
+    <TextView
+        android:id="@+id/a"
+        android:layout_width="match_parent"
+        android:layout_height="674dp"
+        android:layout_below="@id/logoImageView"
+        android:layout_marginTop="-419dp"
+        android:text="CHINEESEY"
+        android:textColor="#fff"
+        android:textSize="60sp"
+        app:fontFamily="@font/slidefuregular2" />
+
+    <TextView
+        android:id="@+id/tagLine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/a"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="By Kedi and friend"
+        android:textColor="#8A8585"
+        android:textSize="24sp"
+        app:fontFamily="cursive" />
+
+</RelativeLayout>

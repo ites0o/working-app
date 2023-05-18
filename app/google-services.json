@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481886855207",
+    "project_id": "language-master-54cca",
+    "storage_bucket": "language-master-54cca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481886855207:android:fbe85cd19869f7b5236e02",
+        "android_client_info": {
+          "package_name": "com.example.languagemaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481886855207-l28g3tk2sbqta34ndn9ecnl9ju65qb14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlQ47ZrfJm7uDb2Hk_usxrgstQ52Z5msg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481886855207-l28g3tk2sbqta34ndn9ecnl9ju65qb14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
